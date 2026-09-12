@@ -24,3 +24,5 @@ As a reminder, here is how the game works:
 ---
 - To play on windows, simply download the executable file.
 - For other systems, use the rust compiler to generate an OS-compatible file.
+
+- If you don't want to go through the compilation process, I've also added the Web Assembly (.wasm) file to run in the browser, although that might require some more setup.
